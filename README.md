@@ -1,2 +1,2 @@
 # run-buddy
-Intro to coding and working with HTML and CSS.
+Intro to coding and working with HTML, CSS and GIT.
