@@ -9,4 +9,4 @@ A website that offers fitness training services.
 
 ## Links
 * 🌎 [Live Github Page](https://gallolopez1.github.io/Portfolio/)
-* 💾 [Repo (here)](https://github.com/gallolopez1/run-buddy)
+* 💾 [Repo](https://github.com/gallolopez1/run-buddy)
