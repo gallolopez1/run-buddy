@@ -8,5 +8,5 @@ A website that offers fitness training services.
 * CSS
 
 ## Links
-* 🌎 [Live Heroku Page](https://murmuring-bastion-49339.herokuapp.com/)
+* 🌎 [Live Page](https://gallolopez1.github.io/run-buddy/)
 * 💾 [Repo](https://github.com/gallolopez1/run-buddy)
